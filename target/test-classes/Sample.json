@@ -1,0 +1,13 @@
+{
+	"name": "Hema",
+	"age": 32,
+	"status": true,
+	"address": {
+		"city": "Chennai",
+		"state": "TamilNadu"
+	},
+	"courses": [
+		"java",
+		"selenium"
+	]
+}
