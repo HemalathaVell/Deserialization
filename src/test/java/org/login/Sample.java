@@ -28,5 +28,7 @@ public class Sample {
 			
 		}
 	}
-
+private void sysout() {
+	System.out.println("name");
+}
 }
