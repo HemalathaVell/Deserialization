@@ -30,5 +30,7 @@ public class Sample {
  
 		System.out.println("name");
 	}
-
+private void sysout() {
+	System.out.println("name");
+}
 }
