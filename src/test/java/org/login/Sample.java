@@ -27,6 +27,8 @@ public class Sample {
 			System.out.println(string);
 			
 		}
+ 
+		System.out.println("name");
 	}
 private void sysout() {
 	System.out.println("name");
